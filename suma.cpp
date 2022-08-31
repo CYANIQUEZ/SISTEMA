@@ -10,7 +10,7 @@ main()
 	cout<<"ingrese b.."; //salida
 	cin>>b;	//entrada
 	
-	c=a+b;
+	c=a+b;  // Expresion - proceso
 	cout<<"la suma es... "<<c;
 	
 }
